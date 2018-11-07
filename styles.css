@@ -1,0 +1,86 @@
+body {
+    background-color:blue;
+    font-family: 'Peddana', serif;
+}
+.outlast {
+    width:500px;
+    border:solid red;
+}
+.lastofus {
+    width:500px;
+    border:solid #48d659;
+}
+.zelda {
+    width:500px;
+    border:solid blue;
+}
+.cj {
+    width:450px;
+    border:solid #00BAFF;
+}
+body {
+    background-image: url("https://i.pinimg.com/originals/b0/b9/6c/b0b96c8289ceb8aaac94aa5c9e0e8ebf.gif");
+}
+h1 {
+    color:cyan;
+    font-family: 'Marck Script', cursive;
+} 
+h2 {
+    color:blue;
+    font-family: 'Fugaz One', cursive;
+
+}
+h3 {
+    color:orange;
+   font-family: 'Fugaz One', cursive;
+
+}
+h4 {
+    color:red;
+    font-family: 'Fugaz One', cursive;
+
+}
+h5 {
+    color:yellow;
+    font-family: 'Fugaz One', cursive;
+
+}
+a {
+    color:red;
+}
+.dawn {
+    width:450px;
+    border:dotted yellow;
+}
+.evil {
+    width:450px;
+    border:dotted #ef3f04;
+}
+.dead {
+    width:500px;
+    border:dotted #ff0cba;
+}
+.gear {
+    width:550px;
+    border:dotted #C0C0C0;
+}
+.sanity {
+    width:400px;
+    border:dotted #9610a8;
+}
+.tidus {
+    border:dotted #00FFFF;
+    width: 550px;
+}
+.wei {
+    width:400px;
+    border:dotted #ff00ff;
+}
+.wild  {
+    width:400px;
+    border:dotted #FF3800;
+}
+.fallout  {
+    width:400px;
+    border:dotted #146047;
+}
